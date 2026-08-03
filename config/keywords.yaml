@@ -1,0 +1,17 @@
+# Keyword rules matched (case-insensitive) against each job's title + description.
+#
+# A plain string rule matches if that phrase appears anywhere in the text.
+# An `all_of` rule matches only if every phrase in its list appears (used for
+# compound signals like "frontend engineer" roles that also mention "AI").
+#
+# Tune this list as alerts come in - remove rules that are too noisy, add
+# more specific ones for terms that are too broad.
+
+rules:
+  - design systems
+  - ux engineer
+  - design engineer
+  - ai product engineer
+  - ai enablement
+  - product engineer
+  - all_of: [frontend engineer, ai]

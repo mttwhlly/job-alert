@@ -1,0 +1,16 @@
+# Watchlist of companies to poll for new job postings.
+#
+# Add a company by adding one line below:
+#   - { name: "Display Name", ats: <greenhouse|lever|ashby|workable|smartrecruiters>, slug: <ats-specific-slug> }
+#
+# How to find the slug for each ats:
+#   greenhouse:      the board URL job-boards.greenhouse.io/<slug>
+#   lever:           the board URL jobs.lever.co/<slug>
+#   ashby:           the board URL jobs.ashbyhq.com/<slug>
+#   workable:        the board URL apply.workable.com/<slug>
+#   smartrecruiters: the board URL careers.smartrecruiters.com/<slug>
+#                    (not all SmartRecruiters companies expose the public API - it may 404)
+
+companies:
+  - { name: "Wikimedia Foundation", ats: greenhouse, slug: wikimedia }
+  - { name: "Help Scout", ats: ashby, slug: helpscout }
