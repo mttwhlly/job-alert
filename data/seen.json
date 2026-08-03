@@ -1,1 +1,122 @@
-{}
+{
+  "ashby:helpscout:1873a140-0ab9-408e-a9dd-d3c6106c9819": {
+    "company": "Help Scout",
+    "first_seen_at": "2026-08-03T18:16:16.997822+00:00",
+    "title": "Sr. Software Engineer, Platform"
+  },
+  "ashby:helpscout:1dd3b3e9-dc4f-4442-b9b0-ec2d05aae145": {
+    "company": "Help Scout",
+    "first_seen_at": "2026-08-03T18:16:16.529123+00:00",
+    "title": "Lead/Principal Product Manager, Intelligence"
+  },
+  "ashby:helpscout:63460d51-02c4-45ee-b1a0-14d062673af7": {
+    "company": "Help Scout",
+    "first_seen_at": "2026-08-03T18:16:16.529008+00:00",
+    "title": "Lead/Principal Product Manager, Resolve"
+  },
+  "ashby:helpscout:82c4c13c-0a9e-4afe-a0cb-d925cf7a15b8": {
+    "company": "Help Scout",
+    "first_seen_at": "2026-08-03T18:16:16.997719+00:00",
+    "title": "Brand Designer"
+  },
+  "ashby:helpscout:86132a5a-1909-470d-9f4a-5557b234be07": {
+    "company": "Help Scout",
+    "first_seen_at": "2026-08-03T18:16:16.997451+00:00",
+    "title": "Mid/Sr. Product Engineer, Intelligence"
+  },
+  "ashby:helpscout:c7efec74-e8f7-428f-8c33-be4e7097b2cd": {
+    "company": "Help Scout",
+    "first_seen_at": "2026-08-03T18:16:16.997924+00:00",
+    "title": "Lead/Principal Product Manager, Growth"
+  },
+  "ashby:helpscout:d10ab692-52f3-4c13-8108-8a16477237d9": {
+    "company": "Help Scout",
+    "first_seen_at": "2026-08-03T18:16:16.528670+00:00",
+    "title": "Sr. Product Engineer"
+  },
+  "ashby:helpscout:f000b241-7974-4a2d-a80d-07fb807b2f90": {
+    "company": "Help Scout",
+    "first_seen_at": "2026-08-03T18:16:16.086577+00:00",
+    "title": "Staff Product Engineer"
+  },
+  "greenhouse:wikimedia:7604186": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-03T18:16:15.439666+00:00",
+    "title": "Manager, Data Science (Product Analytics)"
+  },
+  "greenhouse:wikimedia:7913716": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-03T18:16:15.440101+00:00",
+    "title": "Senior Data Scientist, Ecosystems"
+  },
+  "greenhouse:wikimedia:7919287": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-03T18:16:15.440992+00:00",
+    "title": "Software Engineer III, Core Experiences"
+  },
+  "greenhouse:wikimedia:7921820": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-03T18:16:15.440587+00:00",
+    "title": "Senior Site Reliability Engineer, Infrastructure Foundations"
+  },
+  "greenhouse:wikimedia:7946461": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-03T18:16:15.440738+00:00",
+    "title": "Senior Site Reliability Engineer, Wikimedia Enterprise"
+  },
+  "greenhouse:wikimedia:7946475": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-03T18:16:15.440224+00:00",
+    "title": "Senior Engineering Manager, Wikimedia Enterprise "
+  },
+  "greenhouse:wikimedia:7972965": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-03T18:16:15.440476+00:00",
+    "title": "Senior Site Reliability Engineer, Data Persistence"
+  },
+  "greenhouse:wikimedia:7974145": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-03T18:16:15.439388+00:00",
+    "title": "Lead Product Partnerships Manager (Fixed Term Contract)"
+  },
+  "greenhouse:wikimedia:7988888": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-03T18:16:15.439974+00:00",
+    "title": "Sales Development Representative, Wikimedia Enterprise"
+  },
+  "greenhouse:wikimedia:8014402": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-03T18:16:15.440358+00:00",
+    "title": "Senior People Business Partner"
+  },
+  "greenhouse:wikimedia:8023197": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-03T18:16:15.439199+00:00",
+    "title": "Italian Translator / Linguist (Contract)"
+  },
+  "greenhouse:wikimedia:8046205": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-03T18:16:15.439522+00:00",
+    "title": "Lead Specialist, Audience Development & Fundraising (Contract)"
+  },
+  "greenhouse:wikimedia:8059457": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-03T18:16:15.439839+00:00",
+    "title": "Principal, Global Event Security and Risk Management"
+  },
+  "greenhouse:wikimedia:8060261": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-03T18:16:15.441184+00:00",
+    "title": "Software Engineer, Wikidata Platform"
+  },
+  "greenhouse:wikimedia:8060307": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-03T18:16:15.440841+00:00",
+    "title": "Senior Software Engineer, Wikidata Platform"
+  },
+  "greenhouse:wikimedia:8090103": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-03T18:16:15.441085+00:00",
+    "title": "Software Engineer III, Product Safety & Integrity "
+  }
+}
