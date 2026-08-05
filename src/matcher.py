@@ -1,12 +1,13 @@
 """Keyword matching against job title + description text.
 
 Rules come from config/keywords.yaml. A plain string rule matches if that
-phrase appears anywhere (title or description). An `all_of` rule matches
-only if every phrase in its list matches - each entry can be a plain string
-(matched anywhere) or `{ phrase: ..., in: title }` to restrict that one
-phrase to the job title, e.g. requiring "frontend engineer" in the title
-so a role doesn't match just because it mentions collaborating with
-frontend engineers.
+phrase appears anywhere (title or description). A `{ phrase: ..., in: title }`
+rule restricts that phrase to the job title only - useful when matching a
+phrase anywhere is too easily satisfied by boilerplate that just mentions
+the topic (e.g. a company description mentioning "design systems" as a
+product area, on a role that has nothing to do with design systems). An
+`all_of` rule matches only if every phrase in its list matches, and each
+entry can be a plain string or a `{ phrase, in: title }` dict, same as above.
 
 Matching ignores hyphens (in addition to case), so a rule written as
 "frontend engineer" also catches "front-end engineer". Phrases are matched
@@ -48,6 +49,9 @@ def load_rules(raw_rules):
             entries = [_load_entry(e) for e in rule["all_of"]]
             label = " + ".join(e[0] for e in entries)
             normalized.append((label, [(e[1], e[2]) for e in entries]))
+        elif isinstance(rule, dict) and "phrase" in rule:
+            label, pattern, scope = _load_entry(rule)
+            normalized.append((label, [(pattern, scope)]))
         else:
             raise ValueError(f"Unrecognized keyword rule: {rule!r}")
     return normalized

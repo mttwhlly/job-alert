@@ -1,22 +1,27 @@
 # Keyword rules matched (case-insensitive) against each job's title + description.
 #
-# A plain string rule matches if that phrase appears anywhere in the text.
-# An `all_of` rule matches only if every phrase in its list matches. Each
-# entry in an `all_of` list can be a plain string (matched anywhere) or
-# `{ phrase: ..., in: title }` to restrict that one phrase to the job title -
-# useful when matching it anywhere is too easily satisfied by a role that
-# just mentions collaborating with that kind of engineer.
+# A plain string rule matches if that phrase appears anywhere in the text. A
+# `{ phrase: ..., in: title }` rule restricts that phrase to the job title
+# only - use this when matching anywhere is too easily satisfied by
+# boilerplate that just mentions the topic (e.g. "design systems" is one of
+# Figma's product areas, so it shows up in JD boilerplate for roles that
+# have nothing to do with design systems). An `all_of` rule matches only if
+# every phrase in its list matches - each entry can be a plain string or a
+# `{ phrase, in: title }` dict, same as above.
 #
 # Tune this list as alerts come in - remove rules that are too noisy, add
 # more specific ones for terms that are too broad.
 
 rules:
-  - design systems
+  - { phrase: "design systems", in: title }
   - ux engineer
   - design engineer
   - ai product engineer
   - ai enablement
-  - product engineer
+  - { phrase: "product engineer", in: title }
   - all_of:
       - { phrase: "frontend engineer", in: title }
       - ai
+  - all_of:
+      - { phrase: "engineer", in: title }
+      - { phrase: "ai", in: title }
