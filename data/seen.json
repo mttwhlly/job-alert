@@ -1199,6 +1199,11 @@
     "first_seen_at": "2026-08-05T16:15:54.689950+00:00",
     "title": "Senior Software Engineer, Firefox Security"
   },
+  "greenhouse:mozilla:8017587": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-05T16:38:04.390493+00:00",
+    "title": "Senior Machine Learning Engineer, Applied AI Modeling"
+  },
   "greenhouse:mozilla:8022444": {
     "company": "Mozilla",
     "first_seen_at": "2026-08-05T16:15:54.666858+00:00",
@@ -1298,6 +1303,21 @@
     "company": "Mozilla",
     "first_seen_at": "2026-08-05T16:15:54.617205+00:00",
     "title": "Senior Business Development Manager, New Products"
+  },
+  "greenhouse:mozilla:8041802": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-05T16:38:05.037988+00:00",
+    "title": "Staff AI & Agentic Systems Engineer"
+  },
+  "greenhouse:mozilla:8042188": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-05T16:38:05.937701+00:00",
+    "title": "Staff AI & Agentic Systems Engineer"
+  },
+  "greenhouse:mozilla:8042190": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-05T16:38:05.480528+00:00",
+    "title": "Staff AI & Agentic Systems Engineer"
   },
   "greenhouse:mozilla:8044495": {
     "company": "Mozilla",
