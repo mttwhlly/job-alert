@@ -1,7 +1,7 @@
 # Watchlist of companies to poll for new job postings.
 #
 # Add a company by adding one line below:
-#   - { name: "Display Name", ats: <greenhouse|lever|ashby|workable|smartrecruiters>, slug: <ats-specific-slug> }
+#   - { name: "Display Name", ats: <greenhouse|lever|ashby|workable|smartrecruiters|rippling>, slug: <ats-specific-slug> }
 #
 # How to find the slug for each ats:
 #   greenhouse:      the board URL job-boards.greenhouse.io/<slug>
@@ -10,7 +10,17 @@
 #   workable:        the board URL apply.workable.com/<slug>
 #   smartrecruiters: the board URL careers.smartrecruiters.com/<slug>
 #                    (not all SmartRecruiters companies expose the public API - it may 404)
+#   rippling:        the board URL ats.rippling.com/<slug>/jobs
+#                    (unofficial/scraped adapter, see src/adapters/rippling.py - only
+#                    reliably sees the first ~20 open postings on that board)
 
 companies:
   - { name: "Wikimedia Foundation", ats: greenhouse, slug: wikimedia }
   - { name: "Help Scout", ats: ashby, slug: helpscout }
+  - { name: "Figma", ats: greenhouse, slug: figma }
+  - { name: "Mozilla", ats: greenhouse, slug: mozilla }
+  - { name: "Code for America", ats: greenhouse, slug: codeforamerica }
+  - { name: "Khan Academy", ats: greenhouse, slug: khanacademy }
+  - { name: "AidKit", ats: ashby, slug: aidkit }
+  - { name: "Bookshop.org", ats: workable, slug: bookshop-org }
+  - { name: "Surfline", ats: rippling, slug: surfline }

@@ -1,8 +1,11 @@
 # Keyword rules matched (case-insensitive) against each job's title + description.
 #
 # A plain string rule matches if that phrase appears anywhere in the text.
-# An `all_of` rule matches only if every phrase in its list appears (used for
-# compound signals like "frontend engineer" roles that also mention "AI").
+# An `all_of` rule matches only if every phrase in its list matches. Each
+# entry in an `all_of` list can be a plain string (matched anywhere) or
+# `{ phrase: ..., in: title }` to restrict that one phrase to the job title -
+# useful when matching it anywhere is too easily satisfied by a role that
+# just mentions collaborating with that kind of engineer.
 #
 # Tune this list as alerts come in - remove rules that are too noisy, add
 # more specific ones for terms that are too broad.
@@ -14,4 +17,6 @@ rules:
   - ai product engineer
   - ai enablement
   - product engineer
-  - all_of: [frontend engineer, ai]
+  - all_of:
+      - { phrase: "frontend engineer", in: title }
+      - ai
