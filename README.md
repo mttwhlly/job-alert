@@ -1,9 +1,10 @@
 # job-alert
 
-Polls company job boards directly via their ATS's public JSON APIs (Greenhouse,
-Lever, Ashby, Workable, SmartRecruiters) and opens a GitHub Issue for each new
-posting that matches a keyword list. Runs hourly via GitHub Actions, no
-external services or secrets required.
+Polls company job boards directly via their ATS's public JSON APIs
+(Greenhouse, Lever, Ashby, Workable, SmartRecruiters, and Rippling via an
+unofficial scraped adapter) and opens a GitHub Issue for each new posting
+that matches a keyword list. Runs hourly via GitHub Actions, no external
+services or secrets required.
 
 This exists instead of email digests / Google Alerts because those lag by
 days; polling the ATS APIs directly surfaces postings within an hour.
@@ -27,7 +28,7 @@ days; polling the ATS APIs directly surfaces postings within an hour.
 Add one line to `config/companies.yaml`:
 
 ```yaml
-- { name: "Display Name", ats: <greenhouse|lever|ashby|workable|smartrecruiters>, slug: <slug> }
+- { name: "Display Name", ats: <greenhouse|lever|ashby|workable|smartrecruiters|rippling>, slug: <slug> }
 ```
 
 Find the slug from the company's careers page URL:
@@ -39,23 +40,47 @@ Find the slug from the company's careers page URL:
 | Ashby | `jobs.ashbyhq.com/<slug>` | that path segment |
 | Workable | `apply.workable.com/<slug>` | that path segment |
 | SmartRecruiters | `careers.smartrecruiters.com/<slug>` | that path segment |
+| Rippling | `ats.rippling.com/<slug>/jobs` | that path segment |
 
 Note on SmartRecruiters: the public postings API is opt-in per company, so a
 given slug may 404 even if the careers page above is real. If that happens
 the run logs `error fetching <company> (smartrecruiters): ...` and continues
 with the rest of the watchlist rather than failing.
 
+Note on Rippling: unlike the other four, Rippling has no documented public
+API. `src/adapters/rippling.py` works by parsing the `__NEXT_DATA__` JSON
+that Rippling's job board pages embed to render themselves - this is more
+fragile than a real API (could silently break if Rippling changes their
+frontend) and only reliably sees the first ~20 open postings on a board.
+Fine for smaller boards; something to watch for larger ones.
+
 ## Tuning keywords
 
-`config/keywords.yaml` rules are matched (case-insensitive) against each
-job's title + description. A plain string matches if that phrase appears
-anywhere. An `all_of` rule matches only if every phrase in its list appears -
-used for compound signals, e.g. requiring both "frontend engineer" and "ai":
+`config/keywords.yaml` rules are matched (case-insensitive, word-boundary
+aware - "product engineer" won't fire inside "product engineering") against
+each job's title + description. A plain string matches if that phrase
+appears anywhere. An `all_of` rule matches only if every phrase in its list
+matches - used for compound signals, e.g. requiring both "frontend
+engineer" and "ai":
 
 ```yaml
 rules:
   - design systems
   - all_of: [frontend engineer, ai]
+```
+
+Each `all_of` entry can also be `{ phrase: ..., in: title }` to restrict
+that one phrase to the job title instead of the full text. This matters
+because matching a role phrase anywhere in the description is easily
+satisfied by a posting that just mentions collaborating with that kind of
+engineer, without actually being one - e.g. this fired on a backend/infra
+role that only said it "collaborates closely with frontend engineers":
+
+```yaml
+rules:
+  - all_of:
+      - { phrase: "frontend engineer", in: title }
+      - ai
 ```
 
 Add, remove, or narrow rules as alerts come in.
