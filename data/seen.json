@@ -9,6 +9,11 @@
     "first_seen_at": "2026-08-03T18:16:16.997822+00:00",
     "title": "Sr. Software Engineer, Platform"
   },
+  "ashby:helpscout:1aea7099-b1d1-4408-9fd9-f112de96b28c": {
+    "company": "Help Scout",
+    "first_seen_at": "2026-08-06T23:21:57.549878+00:00",
+    "title": "VP of Marketing"
+  },
   "ashby:helpscout:1dd3b3e9-dc4f-4442-b9b0-ec2d05aae145": {
     "company": "Help Scout",
     "first_seen_at": "2026-08-03T18:16:16.529123+00:00",
@@ -964,6 +969,11 @@
     "first_seen_at": "2026-08-05T16:15:54.336380+00:00",
     "title": "Customer Enablement Manager (Berlin, Germany)"
   },
+  "greenhouse:figma:6134908004": {
+    "company": "Figma",
+    "first_seen_at": "2026-08-06T23:21:57.738530+00:00",
+    "title": "Manager, Solutions Consulting (Tokyo, Japan)"
+  },
   "greenhouse:khanacademy:6907425": {
     "company": "Khan Academy",
     "first_seen_at": "2026-08-05T16:15:55.482109+00:00",
@@ -1494,6 +1504,11 @@
     "first_seen_at": "2026-08-06T14:51:03.743619+00:00",
     "title": "Staff Design Engineer, AI Product "
   },
+  "greenhouse:mozilla:8109590": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-06T23:21:57.894305+00:00",
+    "title": "Senior Mobile Engineer, iOS"
+  },
   "greenhouse:mozilla:8112068": {
     "company": "Mozilla",
     "first_seen_at": "2026-08-06T14:51:04.108051+00:00",
@@ -1503,6 +1518,16 @@
     "company": "Mozilla",
     "first_seen_at": "2026-08-06T14:51:03.364441+00:00",
     "title": "Staff Design Engineer, AI Product "
+  },
+  "greenhouse:mozilla:8112211": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-06T23:21:57.895483+00:00",
+    "title": "Senior Mobile Engineer, iOS"
+  },
+  "greenhouse:mozilla:8112219": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-06T23:21:57.896678+00:00",
+    "title": "Senior Mobile Engineer, iOS"
   },
   "greenhouse:wikimedia:7604186": {
     "company": "Wikimedia Foundation",
