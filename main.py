@@ -16,7 +16,7 @@ from pathlib import Path
 import yaml
 
 from src import matcher, notify
-from src.adapters import ashby, greenhouse, lever, rippling, smartrecruiters, workable
+from src.adapters import ashby, greenhouse, lever, mayo_clinic, rippling, smartrecruiters, workable
 from src.store import SeenStore
 
 ROOT = Path(__file__).parent
@@ -30,6 +30,7 @@ ADAPTERS = {
     "workable": workable.fetch_jobs,
     "smartrecruiters": smartrecruiters.fetch_jobs,
     "rippling": rippling.fetch_jobs,
+    "mayo_clinic": mayo_clinic.fetch_jobs,
 }
 
 

@@ -13,6 +13,10 @@
 #   rippling:        the board URL ats.rippling.com/<slug>/jobs
 #                    (unofficial/scraped adapter, see src/adapters/rippling.py - only
 #                    reliably sees the first ~20 open postings on that board)
+#   mayo_clinic:     bespoke adapter, see src/adapters/mayo_clinic.py - not a generic
+#                    ATS integration. Hardcoded to Jacksonville, FL postings (complete)
+#                    plus a best-effort keyword search for "remote" postings (may miss
+#                    remote roles that don't say "remote"). Slug is unused.
 
 companies:
   - { name: "Wikimedia Foundation", ats: greenhouse, slug: wikimedia }
@@ -24,3 +28,4 @@ companies:
   - { name: "AidKit", ats: ashby, slug: aidkit }
   - { name: "Bookshop.org", ats: workable, slug: bookshop-org }
   - { name: "Surfline", ats: rippling, slug: surfline }
+  - { name: "Mayo Clinic", ats: mayo_clinic, slug: mayoclinic }
