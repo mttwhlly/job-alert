@@ -1444,6 +1444,21 @@
     "first_seen_at": "2026-08-05T16:15:54.602330+00:00",
     "title": "Engineering Manager, Ads"
   },
+  "greenhouse:mozilla:8077185": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-07T16:21:43.115648+00:00",
+    "title": "Senior Application Engineer, Workplace Technology"
+  },
+  "greenhouse:mozilla:8077457": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-07T16:21:43.117976+00:00",
+    "title": "Senior Application Engineer, Workplace Technology"
+  },
+  "greenhouse:mozilla:8077473": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-07T16:21:43.116819+00:00",
+    "title": "Senior Application Engineer, Workplace Technology"
+  },
   "greenhouse:mozilla:8077532": {
     "company": "Mozilla",
     "first_seen_at": "2026-08-05T16:15:54.655113+00:00",
@@ -2153,6 +2168,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.176813+00:00",
     "title": "Registered Nurse - Hematology/Oncology and Medical, Nights - RN"
+  },
+  "mayo_clinic:mayoclinic:382525": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-07T16:23:15.928409+00:00",
+    "title": "Gift Shop Retail Associate"
   },
   "mayo_clinic:mayoclinic:382526": {
     "company": "Mayo Clinic",
@@ -3044,10 +3064,20 @@
     "first_seen_at": "2026-08-07T15:23:36.161508+00:00",
     "title": "Registered Nurse - Progressive Care Unit - RN"
   },
+  "mayo_clinic:mayoclinic:388738": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-07T16:23:15.928658+00:00",
+    "title": "Registered Nurse - Inpatient Float Pool, Part-Time Nights - RN"
+  },
   "mayo_clinic:mayoclinic:388788": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.161318+00:00",
     "title": "Surgery Scheduler"
+  },
+  "mayo_clinic:mayoclinic:388791": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-07T16:23:15.928823+00:00",
+    "title": "Medical Assistant - General Internal Medicine - MA"
   },
   "rippling:surfline:01e761b0-658c-4efe-90ae-0fe89978d1fb": {
     "company": "Surfline",
