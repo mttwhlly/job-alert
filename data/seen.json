@@ -3079,15 +3079,30 @@
     "first_seen_at": "2026-08-07T16:23:15.928658+00:00",
     "title": "Registered Nurse - Inpatient Float Pool, Part-Time Nights - RN"
   },
+  "mayo_clinic:mayoclinic:388758": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-07T21:20:34.093218+00:00",
+    "title": "Registered Nurse - GI/Pulmonary Endoscopy - RN"
+  },
   "mayo_clinic:mayoclinic:388788": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.161318+00:00",
     "title": "Surgery Scheduler"
   },
+  "mayo_clinic:mayoclinic:388789": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-07T21:20:34.093667+00:00",
+    "title": "Registered Nurse - GI/Pulmonary Endoscopy - RN"
+  },
   "mayo_clinic:mayoclinic:388791": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T16:23:15.928823+00:00",
     "title": "Medical Assistant - General Internal Medicine - MA"
+  },
+  "mayo_clinic:mayoclinic:388814": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-07T21:20:34.093468+00:00",
+    "title": "Medical Technologist II MT - Hemo Lab"
   },
   "mayo_clinic:mayoclinic:388828": {
     "company": "Mayo Clinic",
