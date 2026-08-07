@@ -3079,6 +3079,11 @@
     "first_seen_at": "2026-08-07T16:23:15.928823+00:00",
     "title": "Medical Assistant - General Internal Medicine - MA"
   },
+  "mayo_clinic:mayoclinic:388828": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-07T18:23:26.015300+00:00",
+    "title": "Clinical Assistant - Neurology Clinic"
+  },
   "rippling:surfline:01e761b0-658c-4efe-90ae-0fe89978d1fb": {
     "company": "Surfline",
     "first_seen_at": "2026-08-05T16:15:57.188370+00:00",
