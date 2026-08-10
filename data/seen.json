@@ -2189,6 +2189,11 @@
     "first_seen_at": "2026-08-07T15:23:36.163726+00:00",
     "title": "Surgical Technologist - Off-Shift Operating Room, Part-Time - ST"
   },
+  "mayo_clinic:mayoclinic:382529": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-10T15:27:19.318791+00:00",
+    "title": "Rad Imaging/Procedure Assistant"
+  },
   "mayo_clinic:mayoclinic:382546": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.177009+00:00",
@@ -2694,6 +2699,11 @@
     "first_seen_at": "2026-08-07T15:23:36.188388+00:00",
     "title": "Cardiovascular Technologist - EP Lab, Part-Time - CV Tech"
   },
+  "mayo_clinic:mayoclinic:387168": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-10T15:27:19.319011+00:00",
+    "title": "Registered Nurse - Med/Onc/BMT - RN"
+  },
   "mayo_clinic:mayoclinic:387180": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.188645+00:00",
@@ -3019,6 +3029,11 @@
     "first_seen_at": "2026-08-07T15:23:36.160377+00:00",
     "title": "Nuclear Medicine Technologist"
   },
+  "mayo_clinic:mayoclinic:388537": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-10T15:27:19.319161+00:00",
+    "title": "Physical Therapist"
+  },
   "mayo_clinic:mayoclinic:388559": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.160720+00:00",
@@ -3123,6 +3138,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T18:23:26.015300+00:00",
     "title": "Clinical Assistant - Neurology Clinic"
+  },
+  "mayo_clinic:mayoclinic:388896": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-10T15:27:19.953056+00:00",
+    "title": "Senior AI-ML Engineer"
   },
   "rippling:surfline:01e761b0-658c-4efe-90ae-0fe89978d1fb": {
     "company": "Surfline",
