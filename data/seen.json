@@ -984,6 +984,11 @@
     "first_seen_at": "2026-08-06T23:21:57.738530+00:00",
     "title": "Manager, Solutions Consulting (Tokyo, Japan)"
   },
+  "greenhouse:figma:6139275004": {
+    "company": "Figma",
+    "first_seen_at": "2026-08-10T22:16:33.547826+00:00",
+    "title": "Senior Revenue Analyst "
+  },
   "greenhouse:khanacademy:6907425": {
     "company": "Khan Academy",
     "first_seen_at": "2026-08-05T16:15:55.482109+00:00",
@@ -1558,6 +1563,11 @@
     "company": "Mozilla",
     "first_seen_at": "2026-08-06T23:21:57.896678+00:00",
     "title": "Senior Mobile Engineer, iOS"
+  },
+  "greenhouse:mozilla:8119819": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-10T22:16:53.699407+00:00",
+    "title": "UK GTM Recruiter (Contract)"
   },
   "greenhouse:wikimedia:7604186": {
     "company": "Wikimedia Foundation",
@@ -3163,6 +3173,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-10T16:23:42.180849+00:00",
     "title": "RAD IMAGING/PROCEDURE ASSISTANT"
+  },
+  "mayo_clinic:mayoclinic:388915": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-10T22:18:41.140286+00:00",
+    "title": "Analyst/Programmer"
   },
   "mayo_clinic:mayoclinic:388945": {
     "company": "Mayo Clinic",
