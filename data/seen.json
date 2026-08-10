@@ -2944,6 +2944,11 @@
     "first_seen_at": "2026-08-07T15:23:36.162586+00:00",
     "title": "Registered Nurse - Neuro/Transplant ICU, Nights - RN"
   },
+  "mayo_clinic:mayoclinic:388229": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-10T14:32:18.622458+00:00",
+    "title": "Rehabilitation Technician"
+  },
   "mayo_clinic:mayoclinic:388274": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.162813+00:00",
@@ -3103,6 +3108,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T16:23:15.928823+00:00",
     "title": "Medical Assistant - General Internal Medicine - MA"
+  },
+  "mayo_clinic:mayoclinic:388804": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-10T14:32:18.622685+00:00",
+    "title": "Registered Nurse - Progressive Care Unit - RN"
   },
   "mayo_clinic:mayoclinic:388814": {
     "company": "Mayo Clinic",
