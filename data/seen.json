@@ -1539,6 +1539,11 @@
     "first_seen_at": "2026-08-11T01:38:18.682709+00:00",
     "title": "Onboarding Coach"
   },
+  "greenhouse:cloudbeds:4671392005": {
+    "company": "Cloudbeds",
+    "first_seen_at": "2026-08-11T13:35:32.868867+00:00",
+    "title": "Onboarding Coach"
+  },
   "greenhouse:cloudbeds:4677527005": {
     "company": "Cloudbeds",
     "first_seen_at": "2026-08-11T01:38:18.700529+00:00",
@@ -6164,6 +6169,11 @@
     "first_seen_at": "2026-08-07T18:23:26.015300+00:00",
     "title": "Clinical Assistant - Neurology Clinic"
   },
+  "mayo_clinic:mayoclinic:388890": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-11T13:35:23.553316+00:00",
+    "title": "Registered Nurse - Chemotherapy Clinic, Part-Time - RN"
+  },
   "mayo_clinic:mayoclinic:388896": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-10T15:27:19.953056+00:00",
@@ -6183,6 +6193,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-10T19:28:07.006769+00:00",
     "title": "Nurse Practitioner or Physician Assistant I - POE Clinic"
+  },
+  "mayo_clinic:mayoclinic:388981": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-11T13:35:23.553130+00:00",
+    "title": "Medical Assistant - Hematology and Oncology Clinic - MA"
   },
   "rippling:surfline:01e761b0-658c-4efe-90ae-0fe89978d1fb": {
     "company": "Surfline",
