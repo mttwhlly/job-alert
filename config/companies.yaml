@@ -29,3 +29,28 @@ companies:
   - { name: "Bookshop.org", ats: workable, slug: bookshop-org }
   - { name: "Surfline", ats: rippling, slug: surfline }
   - { name: "Mayo Clinic", ats: mayo_clinic, slug: mayoclinic }
+
+  # Buildings / spaces / construction / hospitality / creative design
+  - { name: "OpenSpace", ats: greenhouse, slug: openspace }
+  - { name: "Hover", ats: greenhouse, slug: hover }
+  - { name: "VTS", ats: greenhouse, slug: vts }
+  - { name: "Fieldwire", ats: greenhouse, slug: fieldwire }
+  - { name: "Doxel", ats: lever, slug: doxel }
+  - { name: "Higharc", ats: ashby, slug: higharc }
+  - { name: "CompanyCam", ats: greenhouse, slug: companycam }
+  - { name: "ButterflyMX", ats: ashby, slug: butterflymx }
+  - { name: "Envoy", ats: ashby, slug: envoy }
+  - { name: "Industrious", ats: ashby, slug: industrious }
+  - { name: "Convene", ats: greenhouse, slug: convene }
+  - { name: "Canary Technologies", ats: lever, slug: canarytechnologies }
+  - { name: "Cloudbeds", ats: greenhouse, slug: cloudbeds }
+  - { name: "Kasa", ats: greenhouse, slug: kasa }
+  - { name: "Placemakr", ats: lever, slug: placemakr }
+  - { name: "SiteMinder", ats: ashby, slug: siteminder }
+  - { name: "Runway ML", ats: ashby, slug: runway-ml }
+  - { name: "Miro", ats: ashby, slug: miro }
+  - { name: "Webflow", ats: greenhouse, slug: webflow }
+  - { name: "Spline", ats: lever, slug: spline-design }
+  - { name: "Krea", ats: ashby, slug: krea }
+  - { name: "Kittl", ats: ashby, slug: kittl }
+  - { name: "Procreate", ats: lever, slug: procreate }

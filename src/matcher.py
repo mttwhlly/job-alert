@@ -22,6 +22,14 @@ def _normalize(text: str) -> str:
     return text.lower().replace("-", "")
 
 
+# Titles at these levels are never alerted, regardless of which rule matched.
+_EXCLUDED_TITLE_PATTERN = re.compile(r"\bstaffs?\b")
+
+
+def is_excluded_title(title: str) -> bool:
+    return bool(_EXCLUDED_TITLE_PATTERN.search(_normalize(title)))
+
+
 def _phrase_pattern(phrase: str) -> "re.Pattern":
     # Trailing s? allows plurals ("product engineers") without also matching
     # unrelated continuations like "product engineering".

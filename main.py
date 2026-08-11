@@ -67,6 +67,10 @@ def main():
                 store.mark_seen(job.key, job.title, job.company_name)
                 continue
 
+            if matcher.is_excluded_title(job.title):
+                store.mark_seen(job.key, job.title, job.company_name)
+                continue
+
             if job.remote_status == "onsite":
                 store.mark_seen(job.key, job.title, job.company_name)
                 continue
