@@ -1049,6 +1049,11 @@
     "first_seen_at": "2026-08-11T01:38:20.931406+00:00",
     "title": "Accounts Payable Manager"
   },
+  "ashby:miro:e5892dc9-9fa4-45ca-b4a2-561614c3293e": {
+    "company": "Miro",
+    "first_seen_at": "2026-08-11T14:32:36.018628+00:00",
+    "title": "Commercial Account Executive (CEE)"
+  },
   "ashby:miro:ed8cfa67-f8dc-4c96-a903-cf79b1669327": {
     "company": "Miro",
     "first_seen_at": "2026-08-11T01:38:20.442388+00:00",
@@ -6169,6 +6174,11 @@
     "first_seen_at": "2026-08-07T18:23:26.015300+00:00",
     "title": "Clinical Assistant - Neurology Clinic"
   },
+  "mayo_clinic:mayoclinic:388848": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-11T14:32:32.203422+00:00",
+    "title": "Sterile Processing Technician - Mid-Shift - SPD"
+  },
   "mayo_clinic:mayoclinic:388890": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-11T13:35:23.553316+00:00",
@@ -6198,6 +6208,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-11T13:35:23.553130+00:00",
     "title": "Medical Assistant - Hematology and Oncology Clinic - MA"
+  },
+  "mayo_clinic:mayoclinic:388983": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-11T14:32:32.203643+00:00",
+    "title": "Registered Nurse - Endocrinology - RN"
   },
   "rippling:surfline:01e761b0-658c-4efe-90ae-0fe89978d1fb": {
     "company": "Surfline",
