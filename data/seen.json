@@ -1129,6 +1129,11 @@
     "first_seen_at": "2026-08-11T01:38:20.277624+00:00",
     "title": "Executive Assistant to Executive Team"
   },
+  "ashby:runway-ml:2185626a-657a-4772-9519-50b2e7b2af1a": {
+    "company": "Runway ML",
+    "first_seen_at": "2026-08-12T19:30:26.915995+00:00",
+    "title": "Youtube Creator & Educator"
+  },
   "ashby:runway-ml:28e151ac-cb29-4695-9041-a9e352624111": {
     "company": "Runway ML",
     "first_seen_at": "2026-08-11T01:38:19.809154+00:00",
@@ -5054,6 +5059,11 @@
     "first_seen_at": "2026-08-07T15:23:36.192806+00:00",
     "title": "Associate - Business Development - Compliance"
   },
+  "mayo_clinic:mayoclinic:380252": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-12T19:30:21.757294+00:00",
+    "title": "Faculty Position: Cancer In Vivo Gene Editing Investigators"
+  },
   "mayo_clinic:mayoclinic:380288": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.172332+00:00",
@@ -6208,6 +6218,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.160992+00:00",
     "title": "Registered Nurse Team Lead - Pulmonary/Med Surgical - RN"
+  },
+  "mayo_clinic:mayoclinic:388631": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-12T19:30:21.757627+00:00",
+    "title": "Anatomy Lab Tech"
   },
   "mayo_clinic:mayoclinic:388644": {
     "company": "Mayo Clinic",
