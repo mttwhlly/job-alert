@@ -4,6 +4,11 @@
     "first_seen_at": "2026-08-05T16:15:55.572106+00:00",
     "title": "General Interest Job Form"
   },
+  "ashby:butterflymx:166085d4-004e-4683-b41c-b55b51652fac": {
+    "company": "ButterflyMX",
+    "first_seen_at": "2026-08-12T17:26:27.459235+00:00",
+    "title": "Channel Sales Territory Manager"
+  },
   "ashby:butterflymx:2d25cfe1-4243-48c1-a0bc-91df44e33d1a": {
     "company": "ButterflyMX",
     "first_seen_at": "2026-08-11T01:38:17.324644+00:00",
@@ -3168,6 +3173,11 @@
     "company": "Hover",
     "first_seen_at": "2026-08-11T01:38:15.323844+00:00",
     "title": "Senior Customer Experience Operations Manager"
+  },
+  "greenhouse:hover:8109802": {
+    "company": "Hover",
+    "first_seen_at": "2026-08-12T17:26:26.437006+00:00",
+    "title": "Staff Product Analyst, Operations"
   },
   "greenhouse:hover:8120622": {
     "company": "Hover",
