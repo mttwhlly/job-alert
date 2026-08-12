@@ -3509,6 +3509,16 @@
     "first_seen_at": "2026-08-05T16:15:54.692664+00:00",
     "title": "Senior Solutions Engineer (DACH), Firefox Enterprise"
   },
+  "greenhouse:mozilla:7947230": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-12T16:22:57.882957+00:00",
+    "title": "Front End Engineering Manager, Firefox Desktop"
+  },
+  "greenhouse:mozilla:7947405": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-12T16:22:57.884083+00:00",
+    "title": "Front End Engineering Manager, Firefox Desktop"
+  },
   "greenhouse:mozilla:7961363": {
     "company": "Mozilla",
     "first_seen_at": "2026-08-10T18:22:23.539599+00:00",
@@ -4063,6 +4073,11 @@
     "company": "VTS",
     "first_seen_at": "2026-08-11T01:38:15.533447+00:00",
     "title": "Director, Marketing Operations & Technology"
+  },
+  "greenhouse:vts:4723555005": {
+    "company": "VTS",
+    "first_seen_at": "2026-08-12T16:24:56.754854+00:00",
+    "title": "Associate Implementation Manager"
   },
   "greenhouse:webflow:6124408": {
     "company": "Webflow",
@@ -5573,6 +5588,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.182332+00:00",
     "title": "Lead Medical Technologist - Hospital Core Lab - FLA"
+  },
+  "mayo_clinic:mayoclinic:385766": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-12T16:24:56.434057+00:00",
+    "title": "Health Unit Coordinator - Pulmonary/Med Surgical - HUC"
   },
   "mayo_clinic:mayoclinic:385772": {
     "company": "Mayo Clinic",
