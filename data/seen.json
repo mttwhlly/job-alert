@@ -429,6 +429,11 @@
     "first_seen_at": "2026-08-11T01:38:17.679583+00:00",
     "title": "Member Experience Associate (Part-Time) - Atlanta"
   },
+  "ashby:industrious:0285fc46-a965-42a9-87c6-67778d89bf1e": {
+    "company": "Industrious",
+    "first_seen_at": "2026-08-13T18:25:28.487588+00:00",
+    "title": "Enterprise Solutions, Senior Manager"
+  },
   "ashby:industrious:05d879f4-a005-4b77-bcf4-4cb71962ef78": {
     "company": "Industrious",
     "first_seen_at": "2026-08-11T01:38:17.699288+00:00",
@@ -3389,6 +3394,11 @@
     "first_seen_at": "2026-08-13T15:27:36.089874+00:00",
     "title": "Revenue Analyst (Philippines)"
   },
+  "greenhouse:kasa:7865606003": {
+    "company": "Kasa",
+    "first_seen_at": "2026-08-13T18:25:29.361862+00:00",
+    "title": "Property Operations Lead"
+  },
   "greenhouse:khanacademy:6907425": {
     "company": "Khan Academy",
     "first_seen_at": "2026-08-05T16:15:55.482109+00:00",
@@ -4469,6 +4479,11 @@
     "first_seen_at": "2026-08-11T01:38:18.372816+00:00",
     "title": "Customer Success Manager (German Speaking)"
   },
+  "lever:canarytechnologies:5ab0904f-c6e1-4d55-b6c4-a6188c7aeed1": {
+    "company": "Canary Technologies",
+    "first_seen_at": "2026-08-13T18:25:29.027831+00:00",
+    "title": "Sales Development Representative (Hindi Speaking)"
+  },
   "lever:canarytechnologies:5c38f67e-089d-4a52-900f-ea4bdb425efb": {
     "company": "Canary Technologies",
     "first_seen_at": "2026-08-11T01:38:18.378911+00:00",
@@ -4493,6 +4508,11 @@
     "company": "Canary Technologies",
     "first_seen_at": "2026-08-11T01:38:18.375090+00:00",
     "title": "Full-Cycle Sales Representative - DACH (German Speaking)"
+  },
+  "lever:canarytechnologies:7647bfdb-2db9-4ff4-9283-3d8f032cfb9a": {
+    "company": "Canary Technologies",
+    "first_seen_at": "2026-08-13T18:25:29.026994+00:00",
+    "title": "Sales Development Representative (English Speaking)"
   },
   "lever:canarytechnologies:83167b81-4ff2-4a7d-837a-a8c2d9b1c69b": {
     "company": "Canary Technologies",
@@ -4523,6 +4543,11 @@
     "company": "Canary Technologies",
     "first_seen_at": "2026-08-11T01:38:18.373761+00:00",
     "title": "Director of Product, Digital Guest Journey"
+  },
+  "lever:canarytechnologies:ab75f0aa-f612-4202-af42-bc32b6be38ec": {
+    "company": "Canary Technologies",
+    "first_seen_at": "2026-08-13T18:25:29.027416+00:00",
+    "title": "Sales Development Representative (Greek Speaking)"
   },
   "lever:canarytechnologies:acfdc428-9d33-4448-872f-5ad9f2b768d4": {
     "company": "Canary Technologies",
@@ -6449,15 +6474,30 @@
     "first_seen_at": "2026-08-12T21:22:28.154836+00:00",
     "title": "Surgical Technologist - Gynecology Operating Room - ST"
   },
+  "mayo_clinic:mayoclinic:389052": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-13T18:25:26.617951+00:00",
+    "title": "Health Psychologist"
+  },
   "mayo_clinic:mayoclinic:389066": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-13T11:24:36.083808+00:00",
     "title": "General Services Attendant"
   },
+  "mayo_clinic:mayoclinic:389087": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-13T18:25:26.618138+00:00",
+    "title": "Registered Nurse - Transplant and Medical, Nights - RN"
+  },
   "mayo_clinic:mayoclinic:389101": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-12T20:19:47.114180+00:00",
     "title": "Registered Nurse Team Lead - Community Internal Medicine - RN"
+  },
+  "mayo_clinic:mayoclinic:389102": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-13T18:25:26.618307+00:00",
+    "title": "Registered Nurse - Transplant - RN"
   },
   "mayo_clinic:mayoclinic:389118": {
     "company": "Mayo Clinic",
