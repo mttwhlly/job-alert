@@ -164,6 +164,11 @@
     "first_seen_at": "2026-08-11T01:38:17.511061+00:00",
     "title": "Mid Market Account Executive"
   },
+  "ashby:envoy:994f31d8-2e8d-4e60-bdb4-6f1315b22967": {
+    "company": "Envoy",
+    "first_seen_at": "2026-08-13T15:27:34.682525+00:00",
+    "title": "EMEA SMB Account Executive"
+  },
   "ashby:envoy:9e071a13-d901-411f-b206-6e21a1e5b761": {
     "company": "Envoy",
     "first_seen_at": "2026-08-11T01:38:17.507586+00:00",
@@ -3364,6 +3369,11 @@
     "first_seen_at": "2026-08-11T01:38:18.918380+00:00",
     "title": "Director of Sales - STILE DTLA by Kasa"
   },
+  "greenhouse:kasa:7864690003": {
+    "company": "Kasa",
+    "first_seen_at": "2026-08-13T15:27:36.089874+00:00",
+    "title": "Revenue Analyst (Philippines)"
+  },
   "greenhouse:khanacademy:6907425": {
     "company": "Khan Academy",
     "first_seen_at": "2026-08-05T16:15:55.482109+00:00",
@@ -6323,6 +6333,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T16:23:15.928658+00:00",
     "title": "Registered Nurse - Inpatient Float Pool, Part-Time Nights - RN"
+  },
+  "mayo_clinic:mayoclinic:388742": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-13T15:27:29.060964+00:00",
+    "title": "Endoscopy Technician II - GI/Pulmonary Endoscopy"
   },
   "mayo_clinic:mayoclinic:388758": {
     "company": "Mayo Clinic",
