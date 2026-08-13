@@ -944,6 +944,11 @@
     "first_seen_at": "2026-08-11T01:38:20.438893+00:00",
     "title": "Senior Threat Detection Engineer - Intelligence"
   },
+  "ashby:miro:2c06a827-af4e-42ac-b802-0b0a12c28fcb": {
+    "company": "Miro",
+    "first_seen_at": "2026-08-13T21:23:40.778191+00:00",
+    "title": "Enterprise Account Executive"
+  },
   "ashby:miro:35dace8c-97ac-474d-a02f-64de7dc8ff29": {
     "company": "Miro",
     "first_seen_at": "2026-08-11T01:38:20.933724+00:00",
@@ -4704,6 +4709,11 @@
     "first_seen_at": "2026-08-11T01:38:16.817757+00:00",
     "title": "Sales Development Representative, London"
   },
+  "lever:placemakr:0edae534-8d12-4e26-9e1a-2b527ac8c573": {
+    "company": "Placemakr",
+    "first_seen_at": "2026-08-13T21:23:40.345609+00:00",
+    "title": "Operations Manager"
+  },
   "lever:placemakr:19d9fe26-e6b6-4261-8fcf-a8facecb99e4": {
     "company": "Placemakr",
     "first_seen_at": "2026-08-11T01:38:19.432241+00:00",
@@ -6513,6 +6523,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-13T18:25:26.618307+00:00",
     "title": "Registered Nurse - Transplant - RN"
+  },
+  "mayo_clinic:mayoclinic:389103": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-13T21:23:36.554811+00:00",
+    "title": "Patient Appointment Coordinator"
   },
   "mayo_clinic:mayoclinic:389118": {
     "company": "Mayo Clinic",
