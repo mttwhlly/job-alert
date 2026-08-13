@@ -349,6 +349,11 @@
     "first_seen_at": "2026-08-11T01:38:16.951761+00:00",
     "title": "Sr. Software Engineer, Studio"
   },
+  "ashby:higharc:7853beb5-8ea2-49a0-9548-fe0a1c6a184c": {
+    "company": "Higharc",
+    "first_seen_at": "2026-08-13T19:31:14.098123+00:00",
+    "title": "Account Executive"
+  },
   "ashby:higharc:8ac03a46-30ec-4874-b339-7da3cbea822e": {
     "company": "Higharc",
     "first_seen_at": "2026-08-11T01:38:16.951417+00:00",
@@ -3134,6 +3139,11 @@
     "first_seen_at": "2026-08-13T17:23:36.505798+00:00",
     "title": "Executive Recruiter"
   },
+  "greenhouse:figma:6142460004": {
+    "company": "Figma",
+    "first_seen_at": "2026-08-13T19:26:55.374945+00:00",
+    "title": "Manager, IT Operations"
+  },
   "greenhouse:hover:7308930": {
     "company": "Hover",
     "first_seen_at": "2026-08-11T01:38:15.329349+00:00",
@@ -4038,6 +4048,11 @@
     "company": "Mozilla",
     "first_seen_at": "2026-08-12T02:58:53.103974+00:00",
     "title": "Senior Technical Recruiter (Contract)"
+  },
+  "greenhouse:mozilla:8128459": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-13T19:26:55.639070+00:00",
+    "title": "Brand Copywriter (Part-Time, Freelance)"
   },
   "greenhouse:openspace:7711793003": {
     "company": "OpenSpace",
