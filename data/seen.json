@@ -3549,6 +3549,11 @@
     "first_seen_at": "2026-08-05T16:15:55.499221+00:00",
     "title": "Training Lead - Biology"
   },
+  "greenhouse:khanacademy:8128545": {
+    "company": "Khan Academy",
+    "first_seen_at": "2026-08-13T22:19:09.808758+00:00",
+    "title": "Senior Legal Counsel, Khan Kids"
+  },
   "greenhouse:mozilla:7583557": {
     "company": "Mozilla",
     "first_seen_at": "2026-08-05T16:15:54.637059+00:00",
@@ -6538,6 +6543,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-13T14:33:09.894795+00:00",
     "title": "Nurse Practitioner or Physician Assistant I - Cardiovascular Disease (Interventional Cardiology)"
+  },
+  "mayo_clinic:mayoclinic:389158": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-13T22:20:51.024806+00:00",
+    "title": "Program Manager - Gastroenterology"
   },
   "rippling:surfline:01e761b0-658c-4efe-90ae-0fe89978d1fb": {
     "company": "Surfline",
