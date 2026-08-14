@@ -1034,6 +1034,11 @@
     "first_seen_at": "2026-08-11T03:38:49.137848+00:00",
     "title": "SMB Account Executive"
   },
+  "ashby:miro:7f46ef94-3160-4025-94de-f8e95d2d6dd2": {
+    "company": "Miro",
+    "first_seen_at": "2026-08-14T18:24:18.661249+00:00",
+    "title": "Senior Channel Account Manager"
+  },
   "ashby:miro:8b8c3147-54a5-4b11-9883-c29c6b8dac45": {
     "company": "Miro",
     "first_seen_at": "2026-08-11T01:38:20.934018+00:00",
@@ -2123,6 +2128,11 @@
     "company": "Convene",
     "first_seen_at": "2026-08-11T16:24:14.595892+00:00",
     "title": "Service Supervisor "
+  },
+  "greenhouse:convene:8130389": {
+    "company": "Convene",
+    "first_seen_at": "2026-08-14T18:24:16.789397+00:00",
+    "title": "Part-Time Event Server"
   },
   "greenhouse:fieldwire:8369715002": {
     "company": "Fieldwire",
