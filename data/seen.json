@@ -4,6 +4,11 @@
     "first_seen_at": "2026-08-05T16:15:55.572106+00:00",
     "title": "General Interest Job Form"
   },
+  "ashby:butterflymx:0726d861-9b50-480e-b74e-f8f02ee613fa": {
+    "company": "ButterflyMX",
+    "first_seen_at": "2026-08-14T17:25:30.979232+00:00",
+    "title": "Sales Account Executive"
+  },
   "ashby:butterflymx:166085d4-004e-4683-b41c-b55b51652fac": {
     "company": "ButterflyMX",
     "first_seen_at": "2026-08-12T17:26:27.459235+00:00",
@@ -3134,6 +3139,11 @@
     "first_seen_at": "2026-08-06T23:21:57.738530+00:00",
     "title": "Manager, Solutions Consulting (Tokyo, Japan)"
   },
+  "greenhouse:figma:6135656004": {
+    "company": "Figma",
+    "first_seen_at": "2026-08-14T17:22:15.857793+00:00",
+    "title": "Manager, Design - Systems & Infrastructure"
+  },
   "greenhouse:figma:6135721004": {
     "company": "Figma",
     "first_seen_at": "2026-08-11T04:33:54.638378+00:00",
@@ -3158,6 +3168,11 @@
     "company": "Figma",
     "first_seen_at": "2026-08-13T19:26:55.374945+00:00",
     "title": "Manager, IT Operations"
+  },
+  "greenhouse:figma:6143113004": {
+    "company": "Figma",
+    "first_seen_at": "2026-08-14T17:22:15.856860+00:00",
+    "title": "Account Executive, Federal - Civilian"
   },
   "greenhouse:hover:7308930": {
     "company": "Hover",
@@ -4348,6 +4363,11 @@
     "company": "Webflow",
     "first_seen_at": "2026-08-12T20:19:51.163822+00:00",
     "title": "Associate Infrastructure Engineer"
+  },
+  "greenhouse:webflow:8127085": {
+    "company": "Webflow",
+    "first_seen_at": "2026-08-14T17:25:33.778828+00:00",
+    "title": "Demand Generation Associate, Field Programs"
   },
   "greenhouse:wikimedia:7604186": {
     "company": "Wikimedia Foundation",
