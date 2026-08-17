@@ -49,6 +49,11 @@
     "first_seen_at": "2026-08-11T01:38:17.329314+00:00",
     "title": "Director of Information Technology"
   },
+  "ashby:butterflymx:7810fd75-c722-4596-8b43-b2db3da4f490": {
+    "company": "ButterflyMX",
+    "first_seen_at": "2026-08-17T14:14:40.708736+00:00",
+    "title": "Principal AI-Native Software Engineer "
+  },
   "ashby:butterflymx:92959bb6-9ea3-402b-b55f-39a7d8ad8585": {
     "company": "ButterflyMX",
     "first_seen_at": "2026-08-11T01:38:17.326164+00:00",
@@ -3914,6 +3919,11 @@
     "first_seen_at": "2026-08-05T16:15:54.665134+00:00",
     "title": "Senior Software Engineer, Accessibility"
   },
+  "greenhouse:mozilla:8055519": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-17T14:10:59.699302+00:00",
+    "title": "Software Engineer, Release Engineering"
+  },
   "greenhouse:mozilla:8056280": {
     "company": "Mozilla",
     "first_seen_at": "2026-08-05T16:15:54.596341+00:00",
@@ -3928,6 +3938,11 @@
     "company": "Mozilla",
     "first_seen_at": "2026-08-05T16:15:54.663704+00:00",
     "title": "Senior Software Engineer, Accessibility"
+  },
+  "greenhouse:mozilla:8060515": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-17T14:10:59.698410+00:00",
+    "title": "Software Engineer, Release Engineering"
   },
   "greenhouse:mozilla:8064608": {
     "company": "Mozilla",
@@ -6642,6 +6657,21 @@
   "mayo_clinic:mayoclinic:389198": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-14T15:22:19.115671+00:00",
+    "title": "Rad Imaging/Procedure Assistant"
+  },
+  "mayo_clinic:mayoclinic:389257": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-17T14:14:39.228676+00:00",
+    "title": "Rad Imaging/Procedure Assistant"
+  },
+  "mayo_clinic:mayoclinic:389258": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-17T14:14:39.229027+00:00",
+    "title": "Rad Imaging/Procedure Assistant"
+  },
+  "mayo_clinic:mayoclinic:389279": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-17T14:14:39.228879+00:00",
     "title": "Rad Imaging/Procedure Assistant"
   },
   "mayo_clinic:mayoclinic:389288": {
