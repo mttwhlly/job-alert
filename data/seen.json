@@ -5909,6 +5909,11 @@
     "first_seen_at": "2026-08-07T15:23:36.184687+00:00",
     "title": "Nutrition Support Dietitian"
   },
+  "mayo_clinic:mayoclinic:386420": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-17T17:12:59.111773+00:00",
+    "title": "Specialist-HIMS"
+  },
   "mayo_clinic:mayoclinic:386436": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.184185+00:00",
@@ -6158,6 +6163,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.189642+00:00",
     "title": "Registered Nurse - Cardiopulmonary Rehab, Part-Time - RN"
+  },
+  "mayo_clinic:mayoclinic:387466": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-17T17:12:59.111359+00:00",
+    "title": "Patient Care Tech Inpatient Opportunities - PCT"
   },
   "mayo_clinic:mayoclinic:387493": {
     "company": "Mayo Clinic",
