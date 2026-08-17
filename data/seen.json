@@ -1569,6 +1569,11 @@
     "first_seen_at": "2026-08-11T01:38:19.626269+00:00",
     "title": "Senior Sales Executive (Remote)"
   },
+  "ashby:siteminder:d834ee5b-a087-426b-9897-4181a4a2c17b": {
+    "company": "SiteMinder",
+    "first_seen_at": "2026-08-17T19:17:13.929104+00:00",
+    "title": "Office Manager (Part-Time) "
+  },
   "ashby:siteminder:deb92daf-87c9-40ed-948b-a1082df838eb": {
     "company": "SiteMinder",
     "first_seen_at": "2026-08-11T01:38:19.624477+00:00",
@@ -4814,6 +4819,11 @@
     "first_seen_at": "2026-08-11T01:38:16.817757+00:00",
     "title": "Sales Development Representative, London"
   },
+  "lever:placemakr:03daa48c-d30f-4404-9f50-c0724854617f": {
+    "company": "Placemakr",
+    "first_seen_at": "2026-08-17T19:17:13.845417+00:00",
+    "title": "Chief Engineer"
+  },
   "lever:placemakr:0edae534-8d12-4e26-9e1a-2b527ac8c573": {
     "company": "Placemakr",
     "first_seen_at": "2026-08-13T21:23:40.345609+00:00",
@@ -4893,6 +4903,16 @@
     "company": "Placemakr",
     "first_seen_at": "2026-08-11T01:38:19.432947+00:00",
     "title": "Senior Accountant"
+  },
+  "lever:placemakr:a0a2323e-f272-400e-a6a4-b0ffae52327d": {
+    "company": "Placemakr",
+    "first_seen_at": "2026-08-17T19:17:13.846504+00:00",
+    "title": "Housekeeping Supervisor"
+  },
+  "lever:placemakr:a3665fc3-115d-4d4a-a6f5-4bb78eab63cb": {
+    "company": "Placemakr",
+    "first_seen_at": "2026-08-17T19:17:13.847618+00:00",
+    "title": "Property Operations Coordinator"
   },
   "lever:placemakr:b0260c59-01c2-4bc0-8a2f-1cc9319e5b0b": {
     "company": "Placemakr",
@@ -6703,6 +6723,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-14T15:22:19.115671+00:00",
     "title": "Rad Imaging/Procedure Assistant"
+  },
+  "mayo_clinic:mayoclinic:389220": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-17T19:17:09.282757+00:00",
+    "title": "Supervisor, Security Operations"
   },
   "mayo_clinic:mayoclinic:389257": {
     "company": "Mayo Clinic",
