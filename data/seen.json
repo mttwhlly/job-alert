@@ -999,6 +999,11 @@
     "first_seen_at": "2026-08-11T01:38:20.934382+00:00",
     "title": "GTM GM, Manufacturing"
   },
+  "ashby:miro:47d2513b-d778-4498-a76c-ca30cd1d34b2": {
+    "company": "Miro",
+    "first_seen_at": "2026-08-17T18:14:36.760457+00:00",
+    "title": "Expression of Interest: Enterprise & Strategic AE - UK/I"
+  },
   "ashby:miro:4914fe1a-703d-4445-90a6-1077187b713a": {
     "company": "Miro",
     "first_seen_at": "2026-08-11T01:38:20.441426+00:00",
@@ -3209,6 +3214,11 @@
     "first_seen_at": "2026-08-13T19:26:55.374945+00:00",
     "title": "Manager, IT Operations"
   },
+  "greenhouse:figma:6142506004": {
+    "company": "Figma",
+    "first_seen_at": "2026-08-17T18:12:51.397262+00:00",
+    "title": "Software Engineer - Application Platform"
+  },
   "greenhouse:figma:6143018004": {
     "company": "Figma",
     "first_seen_at": "2026-08-17T16:08:37.371868+00:00",
@@ -4639,6 +4649,11 @@
     "first_seen_at": "2026-08-11T01:38:18.372277+00:00",
     "title": "Customer Success Manager"
   },
+  "lever:canarytechnologies:a244c5ff-4184-434c-90a8-f330750d9ab4": {
+    "company": "Canary Technologies",
+    "first_seen_at": "2026-08-17T18:14:36.000118+00:00",
+    "title": "Sales Development Representative"
+  },
   "lever:canarytechnologies:a69b7aad-99a6-4823-b10f-29d3a0892dec": {
     "company": "Canary Technologies",
     "first_seen_at": "2026-08-11T01:38:18.384580+00:00",
@@ -6034,6 +6049,11 @@
     "first_seen_at": "2026-08-07T15:23:36.187018+00:00",
     "title": "Attendant Aide - Operating Room - EVS"
   },
+  "mayo_clinic:mayoclinic:386885": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-17T18:14:34.425845+00:00",
+    "title": "Lab Processing Assistant-Histology- Florida"
+  },
   "mayo_clinic:mayoclinic:386931": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.186639+00:00",
@@ -6628,6 +6648,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-13T11:24:36.083808+00:00",
     "title": "General Services Attendant"
+  },
+  "mayo_clinic:mayoclinic:389071": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-17T18:14:34.425952+00:00",
+    "title": "Rehabilitation Technician"
   },
   "mayo_clinic:mayoclinic:389087": {
     "company": "Mayo Clinic",
