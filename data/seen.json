@@ -769,6 +769,11 @@
     "first_seen_at": "2026-08-11T01:38:17.689766+00:00",
     "title": "Member Experience Associate (Part-Time) - Los Angeles "
   },
+  "ashby:industrious:e94bae38-3bd6-4924-9cb0-72efa5513941": {
+    "company": "Industrious",
+    "first_seen_at": "2026-08-17T16:11:54.293708+00:00",
+    "title": "Member Experience Associate - Boulder"
+  },
   "ashby:industrious:ec2fc151-14a9-4517-ac74-641f416a3381": {
     "company": "Industrious",
     "first_seen_at": "2026-08-11T01:38:17.677807+00:00",
@@ -3203,6 +3208,11 @@
     "company": "Figma",
     "first_seen_at": "2026-08-13T19:26:55.374945+00:00",
     "title": "Manager, IT Operations"
+  },
+  "greenhouse:figma:6143018004": {
+    "company": "Figma",
+    "first_seen_at": "2026-08-17T16:08:37.371868+00:00",
+    "title": "Director, Strategic Sales (Berlin, Germany)"
   },
   "greenhouse:figma:6143113004": {
     "company": "Figma",
