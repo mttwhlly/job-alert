@@ -1,4 +1,9 @@
 {
+  "ashby:aidkit:21182c6e-458b-4318-bba0-aabcd47cc96d": {
+    "company": "AidKit",
+    "first_seen_at": "2026-08-17T21:09:54.630869+00:00",
+    "title": "Review & Support Specialist"
+  },
   "ashby:aidkit:e82ed042-535b-4b0c-b1e9-417e4060c356": {
     "company": "AidKit",
     "first_seen_at": "2026-08-05T16:15:55.572106+00:00",
@@ -404,6 +409,11 @@
     "first_seen_at": "2026-08-11T01:38:16.952646+00:00",
     "title": "Sr. Software Engineer, Geometric Modeling/CAD"
   },
+  "ashby:higharc:d91e795d-7878-4275-9aab-c9350bbee9ce": {
+    "company": "Higharc",
+    "first_seen_at": "2026-08-17T21:11:26.449098+00:00",
+    "title": "Purchasing Analyst"
+  },
   "ashby:higharc:d978dfe3-e604-478d-a506-d1291b2f9d9a": {
     "company": "Higharc",
     "first_seen_at": "2026-08-11T01:38:16.956598+00:00",
@@ -579,6 +589,11 @@
     "first_seen_at": "2026-08-11T01:38:17.702662+00:00",
     "title": "Member Experience Manager - Seattle"
   },
+  "ashby:industrious:6fd14151-50de-452f-a5a3-768cc81602c9": {
+    "company": "Industrious",
+    "first_seen_at": "2026-08-17T21:11:27.074734+00:00",
+    "title": "Member Experience Manager - Los Angeles "
+  },
   "ashby:industrious:7490c8f9-5cc8-4493-875b-864d9c96b33f": {
     "company": "Industrious",
     "first_seen_at": "2026-08-11T01:38:17.694750+00:00",
@@ -753,6 +768,11 @@
     "company": "Industrious",
     "first_seen_at": "2026-08-11T01:38:17.705783+00:00",
     "title": "Member Experience Manager - Phoenix"
+  },
+  "ashby:industrious:da686b10-c6ef-4359-8d23-78179a200f94": {
+    "company": "Industrious",
+    "first_seen_at": "2026-08-17T21:11:27.074311+00:00",
+    "title": "Member Experience Manager - West Palm Beach"
   },
   "ashby:industrious:dfff5d38-f35d-4d5d-b675-a99ca7becf51": {
     "company": "Industrious",
@@ -1253,6 +1273,11 @@
     "company": "Runway ML",
     "first_seen_at": "2026-08-13T16:24:13.417051+00:00",
     "title": "API Deployment Manager"
+  },
+  "ashby:runway-ml:67831df0-4dfb-4db2-b5ea-947506774e5a": {
+    "company": "Runway ML",
+    "first_seen_at": "2026-08-17T21:11:28.607707+00:00",
+    "title": "Senior IT Engineer - London"
   },
   "ashby:runway-ml:6da9edec-0ad7-4871-b51f-cc2714688d91": {
     "company": "Runway ML",
@@ -2163,6 +2188,11 @@
     "company": "Convene",
     "first_seen_at": "2026-08-14T18:24:16.789397+00:00",
     "title": "Part-Time Event Server"
+  },
+  "greenhouse:convene:8137795": {
+    "company": "Convene",
+    "first_seen_at": "2026-08-17T21:11:27.211363+00:00",
+    "title": "Line Cook"
   },
   "greenhouse:fieldwire:8369715002": {
     "company": "Fieldwire",
@@ -6753,6 +6783,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-17T13:22:00.061835+00:00",
     "title": "Associate Strategist"
+  },
+  "mayo_clinic:mayoclinic:389354": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-17T21:11:24.937482+00:00",
+    "title": "Registered Nurse - Ambulatory Float Pool, PRN - RN"
   },
   "rippling:surfline:01e761b0-658c-4efe-90ae-0fe89978d1fb": {
     "company": "Surfline",
