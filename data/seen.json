@@ -6439,6 +6439,11 @@
     "first_seen_at": "2026-08-07T15:23:36.160431+00:00",
     "title": "Occupational Therapist - Inpatient"
   },
+  "mayo_clinic:mayoclinic:388662": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-17T13:22:00.061556+00:00",
+    "title": "Registered Nurse - Campus Emergency Response Team - RN"
+  },
   "mayo_clinic:mayoclinic:388667": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.161158+00:00",
@@ -6638,6 +6643,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-14T15:22:19.115671+00:00",
     "title": "Rad Imaging/Procedure Assistant"
+  },
+  "mayo_clinic:mayoclinic:389288": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-17T13:22:00.061835+00:00",
+    "title": "Associate Strategist"
   },
   "rippling:surfline:01e761b0-658c-4efe-90ae-0fe89978d1fb": {
     "company": "Surfline",
