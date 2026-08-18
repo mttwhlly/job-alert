@@ -309,6 +309,11 @@
     "first_seen_at": "2026-08-11T01:38:16.959565+00:00",
     "title": "Analytics Engineer"
   },
+  "ashby:higharc:13258ff2-e0e2-418a-b451-f196eba61516": {
+    "company": "Higharc",
+    "first_seen_at": "2026-08-18T21:10:47.494989+00:00",
+    "title": "Residential Drafter"
+  },
   "ashby:higharc:1a0b4edc-9c38-41e0-8699-6c646682a760": {
     "company": "Higharc",
     "first_seen_at": "2026-08-11T01:38:16.960055+00:00",
@@ -6933,6 +6938,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-18T18:13:55.754458+00:00",
     "title": "Registered Nurse - Inpatient Neurosciences - RN"
+  },
+  "mayo_clinic:mayoclinic:389455": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-18T21:10:42.914508+00:00",
+    "title": "Research Fellow - Part-Time - Dermatology"
   },
   "rippling:surfline:01e761b0-658c-4efe-90ae-0fe89978d1fb": {
     "company": "Surfline",
