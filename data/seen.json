@@ -1079,6 +1079,11 @@
     "first_seen_at": "2026-08-11T01:38:20.934018+00:00",
     "title": "EMEA Technical Account Manager"
   },
+  "ashby:miro:8ef0ae8e-868b-41c9-b105-1e8e923ad09e": {
+    "company": "Miro",
+    "first_seen_at": "2026-08-18T13:23:32.445018+00:00",
+    "title": "Senior Lifecycle Marketing Manager"
+  },
   "ashby:miro:9044dc63-bc57-4432-a775-7305e39469b7": {
     "company": "Miro",
     "first_seen_at": "2026-08-11T01:38:20.443534+00:00",
@@ -6774,6 +6779,11 @@
     "first_seen_at": "2026-08-14T15:22:19.115671+00:00",
     "title": "Rad Imaging/Procedure Assistant"
   },
+  "mayo_clinic:mayoclinic:389208": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-18T13:23:28.375454+00:00",
+    "title": "Education Program Coordinator"
+  },
   "mayo_clinic:mayoclinic:389220": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-17T19:17:09.282757+00:00",
@@ -6808,6 +6818,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-17T21:11:24.937482+00:00",
     "title": "Registered Nurse - Ambulatory Float Pool, PRN - RN"
+  },
+  "mayo_clinic:mayoclinic:389390": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-18T13:23:28.375672+00:00",
+    "title": "Data Management Specialist"
   },
   "rippling:surfline:01e761b0-658c-4efe-90ae-0fe89978d1fb": {
     "company": "Surfline",
