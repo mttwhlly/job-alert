@@ -1654,6 +1654,11 @@
     "first_seen_at": "2026-08-11T01:38:18.697961+00:00",
     "title": "Sales Manager "
   },
+  "greenhouse:cloudbeds:4452331005": {
+    "company": "Cloudbeds",
+    "first_seen_at": "2026-08-18T14:17:02.349064+00:00",
+    "title": "Customer Support Coach"
+  },
   "greenhouse:cloudbeds:4466015005": {
     "company": "Cloudbeds",
     "first_seen_at": "2026-08-11T01:38:18.668109+00:00",
@@ -6774,6 +6779,11 @@
     "first_seen_at": "2026-08-13T22:20:51.024806+00:00",
     "title": "Program Manager - Gastroenterology"
   },
+  "mayo_clinic:mayoclinic:389179": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-18T14:17:00.398360+00:00",
+    "title": "Registered Nurse - Med/Onc/BMT, Part-Time Nights - RN"
+  },
   "mayo_clinic:mayoclinic:389198": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-14T15:22:19.115671+00:00",
@@ -6808,6 +6818,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-17T13:22:00.061835+00:00",
     "title": "Associate Strategist"
+  },
+  "mayo_clinic:mayoclinic:389334": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-18T14:17:00.398574+00:00",
+    "title": "Registered Nurse Team Lead - Transplant and Medical - RN"
   },
   "mayo_clinic:mayoclinic:389351": {
     "company": "Mayo Clinic",
