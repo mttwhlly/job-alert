@@ -1144,6 +1144,11 @@
     "first_seen_at": "2026-08-11T01:38:20.442708+00:00",
     "title": "Business Development Representative"
   },
+  "ashby:miro:d84df504-a5c0-4301-b489-a53eb575422a": {
+    "company": "Miro",
+    "first_seen_at": "2026-08-18T16:14:32.970861+00:00",
+    "title": "Expression of Interest: SMB & Commercial Account Executive"
+  },
   "ashby:miro:db42b92e-edc3-4538-aeb5-71da0469a4b9": {
     "company": "Miro",
     "first_seen_at": "2026-08-11T01:38:20.442036+00:00",
@@ -1168,6 +1173,11 @@
     "company": "Miro",
     "first_seen_at": "2026-08-11T01:38:20.438015+00:00",
     "title": "Staff Design Engineer"
+  },
+  "ashby:miro:efe554c0-d8da-40a1-aff2-89dd28520948": {
+    "company": "Miro",
+    "first_seen_at": "2026-08-18T16:14:32.971361+00:00",
+    "title": "Expression of Interest: SMB & Commercial Account Executive"
   },
   "ashby:runway-ml:07c09e07-3dcd-44c3-a59e-86603d9d007d": {
     "company": "Runway ML",
@@ -4159,6 +4169,16 @@
     "first_seen_at": "2026-08-06T23:21:57.896678+00:00",
     "title": "Senior Mobile Engineer, iOS"
   },
+  "greenhouse:mozilla:8114963": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-18T16:10:59.919953+00:00",
+    "title": "Lifecycle Marketing Operations Manager, Firefox Mobile"
+  },
+  "greenhouse:mozilla:8115026": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-18T16:10:59.921859+00:00",
+    "title": "Lifecycle Marketing Operations Manager, Firefox Mobile"
+  },
   "greenhouse:mozilla:8119819": {
     "company": "Mozilla",
     "first_seen_at": "2026-08-10T22:16:53.699407+00:00",
@@ -4208,6 +4228,11 @@
     "company": "Mozilla",
     "first_seen_at": "2026-08-13T19:26:55.639070+00:00",
     "title": "Brand Copywriter (Part-Time, Freelance)"
+  },
+  "greenhouse:mozilla:8139354": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-18T16:10:59.920902+00:00",
+    "title": "Lifecycle Marketing Operations Manager, Firefox Mobile"
   },
   "greenhouse:openspace:7711793003": {
     "company": "OpenSpace",
@@ -5798,6 +5823,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.179702+00:00",
     "title": "Social Worker-Clinical"
+  },
+  "mayo_clinic:mayoclinic:384075": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-18T16:14:29.538847+00:00",
+    "title": "Patient Appointment Coordinator I - Primary Care"
   },
   "mayo_clinic:mayoclinic:384084": {
     "company": "Mayo Clinic",
