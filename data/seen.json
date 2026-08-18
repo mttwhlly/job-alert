@@ -6609,6 +6609,11 @@
     "first_seen_at": "2026-08-07T19:26:21.631848+00:00",
     "title": "Lab Processing Assistant - MCL Specimen Operations"
   },
+  "mayo_clinic:mayoclinic:388722": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-18T15:13:44.975018+00:00",
+    "title": "Registered Nurse - Transplant and Medical - RN"
+  },
   "mayo_clinic:mayoclinic:388732": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.161508+00:00",
@@ -6684,6 +6689,11 @@
     "first_seen_at": "2026-08-10T22:18:41.140286+00:00",
     "title": "Analyst/Programmer"
   },
+  "mayo_clinic:mayoclinic:388941": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-18T15:13:44.975190+00:00",
+    "title": "Licensed Practical Nurse - Neurology Clinic - LPN"
+  },
   "mayo_clinic:mayoclinic:388944": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-12T20:19:47.113990+00:00",
@@ -6693,6 +6703,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-10T19:28:07.006769+00:00",
     "title": "Nurse Practitioner or Physician Assistant I - POE Clinic"
+  },
+  "mayo_clinic:mayoclinic:388946": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-18T15:13:44.975317+00:00",
+    "title": "Health Unit Coordinator - Inpatient Surgical - HUC"
   },
   "mayo_clinic:mayoclinic:388981": {
     "company": "Mayo Clinic",
@@ -6824,6 +6839,11 @@
     "first_seen_at": "2026-08-18T14:17:00.398574+00:00",
     "title": "Registered Nurse Team Lead - Transplant and Medical - RN"
   },
+  "mayo_clinic:mayoclinic:389339": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-18T15:13:44.975501+00:00",
+    "title": "Registered Nurse - Gynecology, Part-Time - RN"
+  },
   "mayo_clinic:mayoclinic:389351": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-17T22:10:25.441446+00:00",
@@ -6838,6 +6858,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-18T13:23:28.375672+00:00",
     "title": "Data Management Specialist"
+  },
+  "mayo_clinic:mayoclinic:389400": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-18T15:13:44.975747+00:00",
+    "title": "Registered Nurse - Inpatient Medical, Part-Time - RN"
   },
   "rippling:surfline:01e761b0-658c-4efe-90ae-0fe89978d1fb": {
     "company": "Surfline",
