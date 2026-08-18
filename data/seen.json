@@ -199,6 +199,11 @@
     "first_seen_at": "2026-08-11T01:38:17.504347+00:00",
     "title": "Product Manager, Enterprise"
   },
+  "ashby:envoy:c59852fc-8912-4d6b-ad59-694eac7f942d": {
+    "company": "Envoy",
+    "first_seen_at": "2026-08-18T18:13:57.322550+00:00",
+    "title": "Pre Sales Solutions Engineer"
+  },
   "ashby:envoy:c907d2c3-6a3e-4ae7-85be-184c0a966677": {
     "company": "Envoy",
     "first_seen_at": "2026-08-11T01:38:17.509458+00:00",
@@ -4629,6 +4634,11 @@
     "first_seen_at": "2026-08-05T17:35:39.610843+00:00",
     "title": "Fundraising Support Specialist (Contract)"
   },
+  "greenhouse:wikimedia:8127761": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-18T18:11:48.694496+00:00",
+    "title": "Head of Marketing"
+  },
   "lever:canarytechnologies:02a2e9e1-81da-4386-a870-0a7fefdfc107": {
     "company": "Canary Technologies",
     "first_seen_at": "2026-08-11T01:38:18.374684+00:00",
@@ -6903,6 +6913,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-18T15:13:44.975747+00:00",
     "title": "Registered Nurse - Inpatient Medical, Part-Time - RN"
+  },
+  "mayo_clinic:mayoclinic:389434": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-18T18:13:55.754458+00:00",
+    "title": "Registered Nurse - Inpatient Neurosciences - RN"
   },
   "rippling:surfline:01e761b0-658c-4efe-90ae-0fe89978d1fb": {
     "company": "Surfline",
