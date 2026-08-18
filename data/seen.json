@@ -4639,6 +4639,11 @@
     "first_seen_at": "2026-08-18T18:11:48.694496+00:00",
     "title": "Head of Marketing"
   },
+  "greenhouse:wikimedia:8138079": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-18T19:14:27.486888+00:00",
+    "title": "Principal, Executive Communications"
+  },
   "lever:canarytechnologies:02a2e9e1-81da-4386-a870-0a7fefdfc107": {
     "company": "Canary Technologies",
     "first_seen_at": "2026-08-11T01:38:18.374684+00:00",
@@ -6913,6 +6918,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-18T15:13:44.975747+00:00",
     "title": "Registered Nurse - Inpatient Medical, Part-Time - RN"
+  },
+  "mayo_clinic:mayoclinic:389421": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-18T19:18:09.380241+00:00",
+    "title": "Registered Nurse - Med/Onc/BMT - RN"
   },
   "mayo_clinic:mayoclinic:389434": {
     "company": "Mayo Clinic",
