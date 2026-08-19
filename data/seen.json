@@ -1044,6 +1044,11 @@
     "first_seen_at": "2026-08-11T01:38:20.934997+00:00",
     "title": "AI Technical Architect"
   },
+  "ashby:miro:4347c068-b278-4226-aed6-b272b8e17be9": {
+    "company": "Miro",
+    "first_seen_at": "2026-08-19T21:11:48.824211+00:00",
+    "title": "Workplace Coordinator"
+  },
   "ashby:miro:444f2997-715e-4a80-ba4d-9cb58eadfc69": {
     "company": "Miro",
     "first_seen_at": "2026-08-11T01:38:20.934722+00:00",
@@ -6973,6 +6978,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-17T13:22:00.061835+00:00",
     "title": "Associate Strategist"
+  },
+  "mayo_clinic:mayoclinic:389318": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-19T21:11:45.351851+00:00",
+    "title": "Quality Coordinator - Laboratory"
   },
   "mayo_clinic:mayoclinic:389334": {
     "company": "Mayo Clinic",
