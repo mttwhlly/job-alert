@@ -4344,6 +4344,11 @@
     "first_seen_at": "2026-08-11T01:38:14.185107+00:00",
     "title": "IT Administrator (PST time zone)"
   },
+  "greenhouse:openspace:7815704003": {
+    "company": "OpenSpace",
+    "first_seen_at": "2026-08-19T20:11:15.678500+00:00",
+    "title": "Sr. Security Engineer"
+  },
   "greenhouse:openspace:7815750003": {
     "company": "OpenSpace",
     "first_seen_at": "2026-08-11T01:38:14.186378+00:00",
@@ -6403,6 +6408,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.189772+00:00",
     "title": "Nurse Practitioner or Physician Assistant I \u2013 Spine Center"
+  },
+  "mayo_clinic:mayoclinic:387502": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-19T20:11:15.560743+00:00",
+    "title": "Registered Nurse - Transplant, Nights - RN"
   },
   "mayo_clinic:mayoclinic:387571": {
     "company": "Mayo Clinic",
