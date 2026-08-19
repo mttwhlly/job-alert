@@ -1404,6 +1404,11 @@
     "first_seen_at": "2026-08-11T01:38:19.813228+00:00",
     "title": "Engineering Manager, API"
   },
+  "ashby:runway-ml:dc812ced-119a-42b0-9695-5d1fe23b9a35": {
+    "company": "Runway ML",
+    "first_seen_at": "2026-08-19T22:10:27.144309+00:00",
+    "title": "Designer, Growth Marketing"
+  },
   "ashby:runway-ml:e0fec99f-ae6e-4f92-ac1a-7d227179261f": {
     "company": "Runway ML",
     "first_seen_at": "2026-08-11T01:38:20.272373+00:00",
@@ -3363,6 +3368,11 @@
     "company": "Figma",
     "first_seen_at": "2026-08-14T17:22:15.856860+00:00",
     "title": "Account Executive, Federal - Civilian"
+  },
+  "greenhouse:figma:6144522004": {
+    "company": "Figma",
+    "first_seen_at": "2026-08-19T22:08:35.925706+00:00",
+    "title": "Strategic Program Manager, Information Security"
   },
   "greenhouse:figma:6144873004": {
     "company": "Figma",
@@ -7053,6 +7063,16 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-19T17:12:24.978215+00:00",
     "title": "Registered Nurse - Pulmonary/Med Surgical, Nights - RN"
+  },
+  "mayo_clinic:mayoclinic:389522": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-19T22:10:22.851621+00:00",
+    "title": "UI UX Designer - MCCMS - Rochester"
+  },
+  "mayo_clinic:mayoclinic:389524": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-19T22:10:22.851320+00:00",
+    "title": "Senior Engineer - Rochester"
   },
   "rippling:surfline:01e761b0-658c-4efe-90ae-0fe89978d1fb": {
     "company": "Surfline",
