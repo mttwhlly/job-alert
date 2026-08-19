@@ -884,6 +884,11 @@
     "first_seen_at": "2026-08-11T01:38:21.585343+00:00",
     "title": "Machine Learning Engineer"
   },
+  "ashby:krea:10750b5e-637e-4901-922e-38fb25992e05": {
+    "company": "Krea",
+    "first_seen_at": "2026-08-19T18:13:29.954687+00:00",
+    "title": "Founding Customer Success Manager"
+  },
   "ashby:krea:1258d4cf-7c41-49a3-900f-d07135ad205a": {
     "company": "Krea",
     "first_seen_at": "2026-08-11T01:38:21.588893+00:00",
@@ -5464,6 +5469,11 @@
     "first_seen_at": "2026-08-07T15:23:36.171485+00:00",
     "title": "Molecular Pathologist"
   },
+  "mayo_clinic:mayoclinic:380108": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-19T18:13:25.391751+00:00",
+    "title": "Health Unit Coordinator - Transplant - HUC"
+  },
   "mayo_clinic:mayoclinic:380120": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.172204+00:00",
@@ -6993,6 +7003,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-18T18:13:55.754458+00:00",
     "title": "Registered Nurse - Inpatient Neurosciences - RN"
+  },
+  "mayo_clinic:mayoclinic:389443": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-19T18:13:25.392278+00:00",
+    "title": "Registered Nurse \u2013 Preventive and Comprehensive Cardiology Clinics - RN"
   },
   "mayo_clinic:mayoclinic:389455": {
     "company": "Mayo Clinic",
