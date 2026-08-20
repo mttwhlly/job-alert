@@ -1989,6 +1989,11 @@
     "first_seen_at": "2026-08-19T14:17:30.779862+00:00",
     "title": "Strategic Account Manager"
   },
+  "greenhouse:cloudbeds:4724457005": {
+    "company": "Cloudbeds",
+    "first_seen_at": "2026-08-20T20:13:15.283609+00:00",
+    "title": "SMB Onboarding Lead"
+  },
   "greenhouse:codeforamerica:7407338": {
     "company": "Code for America",
     "first_seen_at": "2026-08-05T16:15:55.367996+00:00",
@@ -4694,6 +4699,16 @@
     "first_seen_at": "2026-08-18T00:23:53.420350+00:00",
     "title": "Director, Analytics Engineering"
   },
+  "greenhouse:webflow:8142831": {
+    "company": "Webflow",
+    "first_seen_at": "2026-08-20T20:13:16.000499+00:00",
+    "title": "Staff Software Engineer, Infrastructure"
+  },
+  "greenhouse:webflow:8145039": {
+    "company": "Webflow",
+    "first_seen_at": "2026-08-20T20:13:16.001570+00:00",
+    "title": "Total Rewards Analyst"
+  },
   "greenhouse:wikimedia:7604186": {
     "company": "Wikimedia Foundation",
     "first_seen_at": "2026-08-03T18:16:15.439666+00:00",
@@ -4803,6 +4818,11 @@
     "company": "Wikimedia Foundation",
     "first_seen_at": "2026-08-18T19:14:27.486888+00:00",
     "title": "Principal, Executive Communications"
+  },
+  "greenhouse:wikimedia:8140060": {
+    "company": "Wikimedia Foundation",
+    "first_seen_at": "2026-08-20T20:10:13.998924+00:00",
+    "title": "Lead Product Manager, Security"
   },
   "lever:canarytechnologies:02a2e9e1-81da-4386-a870-0a7fefdfc107": {
     "company": "Canary Technologies",
@@ -6438,6 +6458,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.188645+00:00",
     "title": "Sterile Processing Technician II - Evenings - SPD"
+  },
+  "mayo_clinic:mayoclinic:387191": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-20T20:13:03.026779+00:00",
+    "title": "CL Psychiatrist"
   },
   "mayo_clinic:mayoclinic:387202": {
     "company": "Mayo Clinic",
