@@ -2304,6 +2304,11 @@
     "first_seen_at": "2026-08-19T13:23:56.073912+00:00",
     "title": "Audio Visual Technician, Live Events"
   },
+  "greenhouse:convene:8143631": {
+    "company": "Convene",
+    "first_seen_at": "2026-08-20T13:24:31.861166+00:00",
+    "title": "Facilities Assistant- Client Support Team "
+  },
   "greenhouse:fieldwire:8369715002": {
     "company": "Fieldwire",
     "first_seen_at": "2026-08-11T01:38:15.802569+00:00",
@@ -6348,6 +6353,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-10T15:27:19.319011+00:00",
     "title": "Registered Nurse - Med/Onc/BMT - RN"
+  },
+  "mayo_clinic:mayoclinic:387171": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-20T13:24:29.997865+00:00",
+    "title": "Medical Assistant - Family Medicine Beaches - MA"
   },
   "mayo_clinic:mayoclinic:387180": {
     "company": "Mayo Clinic",
