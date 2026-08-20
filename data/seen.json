@@ -4349,6 +4349,21 @@
     "first_seen_at": "2026-08-18T16:10:59.920902+00:00",
     "title": "Lifecycle Marketing Operations Manager, Firefox Mobile"
   },
+  "greenhouse:mozilla:8143700": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-20T16:11:41.412449+00:00",
+    "title": "Senior Lead, Enterprise Partnerships & Strategy"
+  },
+  "greenhouse:mozilla:8144258": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-20T16:11:41.411132+00:00",
+    "title": "Senior Engineering Manager, Enterprise AI Product "
+  },
+  "greenhouse:mozilla:8144274": {
+    "company": "Mozilla",
+    "first_seen_at": "2026-08-20T16:11:41.409785+00:00",
+    "title": "Senior Engineering Manager, Enterprise AI Product"
+  },
   "greenhouse:openspace:7711793003": {
     "company": "OpenSpace",
     "first_seen_at": "2026-08-11T01:38:14.185347+00:00",
@@ -4914,6 +4929,11 @@
     "first_seen_at": "2026-08-11T01:38:18.385105+00:00",
     "title": "Senior Enterprise Product Manager"
   },
+  "lever:canarytechnologies:e63249da-1029-42a7-a875-09be98933636": {
+    "company": "Canary Technologies",
+    "first_seen_at": "2026-08-20T16:16:19.267108+00:00",
+    "title": "Senior Software Engineer"
+  },
   "lever:canarytechnologies:ec095663-9b9a-4d4f-9018-52e3dd383055": {
     "company": "Canary Technologies",
     "first_seen_at": "2026-08-11T01:38:18.386151+00:00",
@@ -5388,6 +5408,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.169183+00:00",
     "title": "Social Worker - LCSW - Hematology Oncology"
+  },
+  "mayo_clinic:mayoclinic:376644": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-20T16:16:16.590662+00:00",
+    "title": "Desk Operations Specialist - Office of Access Management FLA"
   },
   "mayo_clinic:mayoclinic:377012": {
     "company": "Mayo Clinic",
@@ -7078,6 +7103,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-18T21:10:42.914508+00:00",
     "title": "Research Fellow - Part-Time - Dermatology"
+  },
+  "mayo_clinic:mayoclinic:389469": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-20T16:16:16.590861+00:00",
+    "title": "Transplant Nephrologist"
   },
   "mayo_clinic:mayoclinic:389472": {
     "company": "Mayo Clinic",
