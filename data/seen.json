@@ -399,6 +399,11 @@
     "first_seen_at": "2026-08-11T01:38:16.951417+00:00",
     "title": "Software QA Specialist "
   },
+  "ashby:higharc:8d661bb2-cbf6-4812-a590-361fb0349d01": {
+    "company": "Higharc",
+    "first_seen_at": "2026-08-20T19:18:25.866061+00:00",
+    "title": "Sr. Software Engineer, Structural"
+  },
   "ashby:higharc:928baed0-d7e1-4440-930e-ea189b1596c7": {
     "company": "Higharc",
     "first_seen_at": "2026-08-11T01:38:16.952369+00:00",
@@ -5129,6 +5134,11 @@
     "first_seen_at": "2026-08-11T01:38:19.426605+00:00",
     "title": "Onsite Property General Interest - Future Potential Openings"
   },
+  "lever:placemakr:39f1af80-1217-4f82-8f84-39f4890ce10a": {
+    "company": "Placemakr",
+    "first_seen_at": "2026-08-20T19:18:29.297731+00:00",
+    "title": "Lead Maintenance Technician"
+  },
   "lever:placemakr:50c37199-d214-4265-b3f7-369bfbd41daf": {
     "company": "Placemakr",
     "first_seen_at": "2026-08-11T01:38:19.423215+00:00",
@@ -6293,6 +6303,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.185722+00:00",
     "title": "Social Worker-Clinical"
+  },
+  "mayo_clinic:mayoclinic:386716": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-20T19:18:24.565776+00:00",
+    "title": "Associate - Business Development"
   },
   "mayo_clinic:mayoclinic:386733": {
     "company": "Mayo Clinic",
