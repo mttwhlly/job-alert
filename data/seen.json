@@ -2354,6 +2354,11 @@
     "first_seen_at": "2026-08-21T14:17:54.371060+00:00",
     "title": "Chef De Partie - Client Support Team "
   },
+  "greenhouse:convene:8147707": {
+    "company": "Convene",
+    "first_seen_at": "2026-08-21T17:13:24.827164+00:00",
+    "title": "Executive Head Chef- Live Events, New Opening! "
+  },
   "greenhouse:fieldwire:8369715002": {
     "company": "Fieldwire",
     "first_seen_at": "2026-08-11T01:38:15.802569+00:00",
@@ -4579,6 +4584,11 @@
     "first_seen_at": "2026-08-12T16:24:56.754854+00:00",
     "title": "Associate Implementation Manager"
   },
+  "greenhouse:vts:4725638005": {
+    "company": "VTS",
+    "first_seen_at": "2026-08-21T17:13:23.818448+00:00",
+    "title": "Senior Salesforce & Integration Engineer "
+  },
   "greenhouse:vts:4725639005": {
     "company": "VTS",
     "first_seen_at": "2026-08-20T18:14:30.023745+00:00",
@@ -5163,6 +5173,11 @@
     "company": "Doxel",
     "first_seen_at": "2026-08-11T01:38:16.817757+00:00",
     "title": "Sales Development Representative, London"
+  },
+  "lever:doxel:ed1f1f01-26fb-4a6c-a97d-c09e581bef24": {
+    "company": "Doxel",
+    "first_seen_at": "2026-08-21T17:13:24.101902+00:00",
+    "title": "Onboarding Analyst, Customer Success"
   },
   "lever:placemakr:03daa48c-d30f-4404-9f50-c0724854617f": {
     "company": "Placemakr",
@@ -7303,6 +7318,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-21T14:17:52.769165+00:00",
     "title": "Registered Nurse - Orthopedics - RN"
+  },
+  "mayo_clinic:mayoclinic:389663": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-21T17:13:23.469568+00:00",
+    "title": "Patient Care Tech - Neurosciences, PRN"
   },
   "mayo_clinic:mayoclinic:389670": {
     "company": "Mayo Clinic",
