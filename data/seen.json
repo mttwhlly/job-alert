@@ -34,6 +34,11 @@
     "first_seen_at": "2026-08-11T01:38:17.331472+00:00",
     "title": "Principal Product Manager (Core Access)"
   },
+  "ashby:butterflymx:45ba7e18-a03f-4e17-8b73-4ff40a42216b": {
+    "company": "ButterflyMX",
+    "first_seen_at": "2026-08-21T16:14:46.116885+00:00",
+    "title": "Lead Accountant, GL Accounting "
+  },
   "ashby:butterflymx:4cf27e51-ff48-4d42-b764-6725905c41c0": {
     "company": "ButterflyMX",
     "first_seen_at": "2026-08-11T01:38:17.326798+00:00",
@@ -2103,6 +2108,11 @@
     "company": "CompanyCam",
     "first_seen_at": "2026-08-14T19:24:48.442264+00:00",
     "title": "GTM Systems Administrator"
+  },
+  "greenhouse:companycam:7893973003": {
+    "company": "CompanyCam",
+    "first_seen_at": "2026-08-21T16:14:45.921315+00:00",
+    "title": "Customer Success Manager, SMB"
   },
   "greenhouse:convene:7491390": {
     "company": "Convene",
@@ -7293,6 +7303,16 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-21T14:17:52.769165+00:00",
     "title": "Registered Nurse - Orthopedics - RN"
+  },
+  "mayo_clinic:mayoclinic:389670": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-21T16:14:44.860818+00:00",
+    "title": "Attendant Aide - Operating Room - EVS"
+  },
+  "mayo_clinic:mayoclinic:389699": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-21T16:14:44.860628+00:00",
+    "title": "Attendant Aide - Operating Room Evenings - EVS"
   },
   "rippling:surfline:01e761b0-658c-4efe-90ae-0fe89978d1fb": {
     "company": "Surfline",
