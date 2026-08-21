@@ -2339,6 +2339,11 @@
     "first_seen_at": "2026-08-21T13:23:54.684148+00:00",
     "title": "Facilities Assistant- Client Support Team "
   },
+  "greenhouse:convene:8147102": {
+    "company": "Convene",
+    "first_seen_at": "2026-08-21T14:17:54.371060+00:00",
+    "title": "Chef De Partie - Client Support Team "
+  },
   "greenhouse:fieldwire:8369715002": {
     "company": "Fieldwire",
     "first_seen_at": "2026-08-11T01:38:15.802569+00:00",
@@ -3443,6 +3448,16 @@
     "company": "Figma",
     "first_seen_at": "2026-08-18T02:29:14.822071+00:00",
     "title": "Manager, Customer Enablement & Advisory Services (Tokyo, Japan)"
+  },
+  "greenhouse:figma:6146574004": {
+    "company": "Figma",
+    "first_seen_at": "2026-08-21T14:16:21.055618+00:00",
+    "title": "Strategic Partner Manager"
+  },
+  "greenhouse:figma:6149007004": {
+    "company": "Figma",
+    "first_seen_at": "2026-08-21T14:16:21.054748+00:00",
+    "title": "Manager, Product - Code (London, United Kingdom)"
   },
   "greenhouse:hover:7308930": {
     "company": "Hover",
@@ -4723,6 +4738,11 @@
     "company": "Webflow",
     "first_seen_at": "2026-08-20T20:13:16.000499+00:00",
     "title": "Staff Software Engineer, Infrastructure"
+  },
+  "greenhouse:webflow:8142841": {
+    "company": "Webflow",
+    "first_seen_at": "2026-08-21T14:17:55.996614+00:00",
+    "title": "Senior Manager, Engineering"
   },
   "greenhouse:webflow:8145039": {
     "company": "Webflow",
@@ -7268,6 +7288,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-21T13:23:53.213377+00:00",
     "title": "Surgical Technologist - Cardiothoracic Operating Room - ST"
+  },
+  "mayo_clinic:mayoclinic:389662": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-21T14:17:52.769165+00:00",
+    "title": "Registered Nurse - Orthopedics - RN"
   },
   "rippling:surfline:01e761b0-658c-4efe-90ae-0fe89978d1fb": {
     "company": "Surfline",
