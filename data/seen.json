@@ -3764,6 +3764,11 @@
     "first_seen_at": "2026-08-20T23:12:09.822829+00:00",
     "title": "Property Operations Associate "
   },
+  "greenhouse:kasa:7932028003": {
+    "company": "Kasa",
+    "first_seen_at": "2026-08-21T21:10:47.359694+00:00",
+    "title": "Maintenance Technician "
+  },
   "greenhouse:khanacademy:6907425": {
     "company": "Khan Academy",
     "first_seen_at": "2026-08-05T16:15:55.482109+00:00",
@@ -4508,6 +4513,11 @@
     "company": "OpenSpace",
     "first_seen_at": "2026-08-11T01:38:14.186378+00:00",
     "title": "Sr. Computer Vision Engineer"
+  },
+  "greenhouse:openspace:7929805003": {
+    "company": "OpenSpace",
+    "first_seen_at": "2026-08-21T21:10:45.675236+00:00",
+    "title": "Sr. Talent Acquisition Partner (remote in EST and CST only)"
   },
   "greenhouse:openspace:7930340003": {
     "company": "OpenSpace",
@@ -7339,6 +7349,11 @@
     "first_seen_at": "2026-08-21T13:23:53.213377+00:00",
     "title": "Surgical Technologist - Cardiothoracic Operating Room - ST"
   },
+  "mayo_clinic:mayoclinic:389659": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-21T21:10:45.557570+00:00",
+    "title": "Registered Nurse - Emergency Department, Swing - RN"
+  },
   "mayo_clinic:mayoclinic:389662": {
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-21T14:17:52.769165+00:00",
@@ -7363,6 +7378,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-21T19:15:10.758877+00:00",
     "title": "RTP-Special Project Assoc II-PC-Urology-Pathak"
+  },
+  "mayo_clinic:mayoclinic:389751": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-21T21:10:45.557772+00:00",
+    "title": "Registered Nurse - Campus Emergency Response Team, Swing - RN"
   },
   "rippling:surfline:01e761b0-658c-4efe-90ae-0fe89978d1fb": {
     "company": "Surfline",
