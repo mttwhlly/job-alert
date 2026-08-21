@@ -4494,6 +4494,11 @@
     "first_seen_at": "2026-08-11T01:38:14.186378+00:00",
     "title": "Sr. Computer Vision Engineer"
   },
+  "greenhouse:openspace:7930340003": {
+    "company": "OpenSpace",
+    "first_seen_at": "2026-08-21T18:13:25.251476+00:00",
+    "title": "Sales Operations Manager"
+  },
   "greenhouse:vts:4042708005": {
     "company": "VTS",
     "first_seen_at": "2026-08-11T01:38:15.541768+00:00",
@@ -6543,6 +6548,11 @@
     "company": "Mayo Clinic",
     "first_seen_at": "2026-08-07T15:23:36.188866+00:00",
     "title": "Nurse Administrator"
+  },
+  "mayo_clinic:mayoclinic:387226": {
+    "company": "Mayo Clinic",
+    "first_seen_at": "2026-08-21T18:13:25.072935+00:00",
+    "title": "Logistics Associate - Supply Chain Management"
   },
   "mayo_clinic:mayoclinic:387233": {
     "company": "Mayo Clinic",
